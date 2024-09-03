@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Allyson Lothes
 - 👀 I’m a current Information Tech and Cybersecurity Student
 - 🌱 I’m currently learning Python and hope to continue to build on this
-- 😄 Pronouns: Her/She
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: My dog's name is Joe :)
 
 <!---
